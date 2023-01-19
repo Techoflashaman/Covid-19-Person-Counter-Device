@@ -8,16 +8,16 @@
 
 ### Schematic
 
-![schematic!](Images/Schematic.PNG)
+![schematic!](Schematic.PNG)
 
 ### PCB Layout
 
-![PCB layout!](Images/PCB%20layout.PNG)
+![PCB layout!](PCB%20layout.PNG)
 
 ### 2D view
 
-![3D view!](Images/3D.PNG)
+![3D view!](3D.PNG)
 
 ### 3D view
 
-![3D view 2!](Images/3D2.PNG)
+![3D view 2!](3D2.PNG)
