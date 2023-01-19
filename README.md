@@ -8,16 +8,17 @@
 
 ### Schematic
 
-![schematic!](Schematic.PNG)
+<img src="https://firebasestorage.googleapis.com/v0/b/covid-19-person-counter.appspot.com/o/Schematic.PNG?alt=media&token=2386427b-6565-442c-a428-f6e36ceabadb"></img>
 
 ### PCB Layout
 
-![PCB layout!](PCB%20layout.PNG)
+<img src="https://firebasestorage.googleapis.com/v0/b/covid-19-person-counter.appspot.com/o/PCB%20layout.PNG?alt=media&token=c10a1584-7e85-4a00-b9c1-402a2d29f618"></img>
 
 ### 2D view
 
-![3D view!](3D.PNG)
-
+<img src="https://firebasestorage.googleapis.com/v0/b/covid-19-person-counter.appspot.com/o/2D.PNG?alt=media&token=4e0b3eed-49e6-45ec-be14-ffb447f78094"></img>
 ### 3D view
 
-![3D view 2!](3D2.PNG)
+<img src="https://firebasestorage.googleapis.com/v0/b/covid-19-person-counter.appspot.com/o/3D.PNG?alt=media&token=48b3ecd1-572e-4e40-b9bd-4a14ae493898"></img>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/covid-19-person-counter.appspot.com/o/3D2.PNG?alt=media&token=1c8d804d-2956-459f-98b7-f81e31eb4f4f"></img>
